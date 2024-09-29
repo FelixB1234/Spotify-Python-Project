@@ -3,6 +3,7 @@
 ## Datenquelle
 
 Die Daten stammen aus einem öffentlichen Datensatz über die am häufigsten gestreamten Songs auf Spotify im Jahr 2023. Sie enthalten Informationen über die Anzahl der Streams, die BPM, die Tanzbarkeit, die Positivität und viele weitere musikalische Eigenschaften.
+https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023?resource=download
 ## Projektübersicht
 
 Dieses Projekt analysiert den **"Most Streamed Spotify Songs 2023"**-Datensatz, der Informationen über die am häufigsten gestreamten Songs auf Spotify enthält. Ziel ist es, Einblicke in die musikalischen Eigenschaften und die Popularität von Künstlern und Songs zu gewinnen. Dabei wurden verschiedene Fragestellungen bearbeitet, die mit statistischen Methoden und Datenvisualisierungen beantwortet wurden.
