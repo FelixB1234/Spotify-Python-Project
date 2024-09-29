@@ -32,7 +32,7 @@ Die Analyse konzentriert sich auf die Beantwortung folgender Fragen:
 ![image](https://github.com/user-attachments/assets/280009af-7cf3-48c6-a337-3174e90414ac)
 
 ### 3. **Verteilung der Tanzbarkeit, Tanzbarkeit der meist gestreamten Artists und Titel mit der höchsten Tanzbarkeit**
-   - Ein Großteil der Songs zeigen einen 70%igen Anteil der Tanzbarkeit.
+   - Ein Großteil der Songs zeigt einen 70%igen Anteil der Tanzbarkeit.
 
 ![image](https://github.com/user-attachments/assets/f825298f-b2c9-44d9-9b84-261c0fd86b35)
      
@@ -62,11 +62,11 @@ Die Analyse konzentriert sich auf die Beantwortung folgender Fragen:
 ## Visualisierungen
 
 Das Projekt enthält mehrere Visualisierungen, darunter:
-- Balkendiagramme für die Anzahl der Songs und Streams der Künstler.
+- Balkendiagramme für die Anzahl der Songs und Streams der Artists.
 - Histogramme für die Verteilung der BPM-Werte und der Tanzbarkeit.
 - Scatterplots, die den Anteil gesprochener Worte und die Korrelationen zwischen den musikalischen Eigenschaften darstellen.
 
 ## Fazit
 
-Diese Analyse liefert interessante Einblicke in die Musik, die im Jahr 2023 auf Spotify beliebt war, und zeigt, wie sich musikalische Eigenschaften auf die Anzahl der Streams auswirken. Dabei gibt es sowohl erwartete Zusammenhänge, wie eine positive Korrelation zwischen Tanzbarkeit und Positivität, als auch unerwartete, wie die geringe Korrelation zwischen Streams und anderen musikalischen Merkmalen. Diese Korrelationen könnten in einer weiteren Analyse weiter erforscht werden.
+Diese Analyse liefert interessante Einblicke in die Musik, die im Jahr 2023 auf Spotify beliebt war und zeigt, wie sich musikalische Eigenschaften auf die Anzahl der Streams auswirken. Dabei gibt es sowohl erwartete Zusammenhänge, wie eine positive Korrelation zwischen Tanzbarkeit und Positivität, als auch unerwartete, wie die geringe Korrelation zwischen Streams und anderen musikalischen Merkmalen. Diese Korrelationen könnten in einer weiteren Analyse näher erforscht werden.
 
