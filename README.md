@@ -2,7 +2,7 @@
 
 ## Datenquelle
 
-Die Daten stammen aus einem öffentlichen Datensatz über die am häufigsten gestreamten Songs auf Spotify im Jahr 2023. Sie enthalten Informationen über die Anzahl der Streams, die BPM, die Tanzbarkeit, die Positivität und viele weitere musikalische Eigenschaften.
+Die Daten stammen aus einem Datensatz von kaggle über die am häufigsten gestreamten Songs auf Spotify im Jahr 2023. Sie enthalten Informationen über die Anzahl der Streams, die BPM, die Tanzbarkeit, die Positivität und viele weitere musikalische Eigenschaften.
 https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023?resource=download
 ## Projektübersicht
 
