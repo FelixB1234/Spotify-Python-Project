@@ -20,8 +20,8 @@ Die Analyse konzentriert sich auf die Beantwortung folgender Fragen:
 
 ## Zusammenfassung der Ergebnisse
 
-### 1. **Top 10 Künstler mit den meisten Songs:**
-   - Durch Gruppierung nach Künstlern wurde festgestellt, welche 5 Künstler die meisten Songs im Datensatz haben.
+### 1. **Top 10 Artists mit den meisten Songs:**
+   - Durch Gruppierung nach Artists wurde festgestellt, welche 10 Artists die meisten Songs im Datensatz haben.
 
 ![image](https://github.com/user-attachments/assets/fee339e3-33dd-442c-b22e-782ac3942cef)
 
