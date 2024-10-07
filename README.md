@@ -56,7 +56,7 @@ Die Analyse konzentriert sich auf die Beantwortung folgender Fragen:
 ![image](https://github.com/user-attachments/assets/078cf655-c486-4ccf-b3b3-da2d6a29baba)
 
 ### 6. **Korrelation zwischen Streams und musikalischen Eigenschaften:**
-   - Es wurden Korrelationen zwischen der Anzahl der Streams und verschiedenen musikalischen Eigenschaften wie Tanzbarkeit (Danceability), Positivität (Valence) und Energie (Energy) berechnet. Eine Korrelationstabelle und eine Heatmap visualisieren die Ergebnisse. Die stärkste positive Korrelation wurde zwischen Tanzbarkeit und Positivität gefunden, während die Anzahl der Streams nur eine schwache Korrelation mit diesen Eigenschaften aufwies.
+   - Es wurden Korrelationen zwischen der Anzahl der Streams und verschiedenen musikalischen Eigenschaften wie Tanzbarkeit (Danceability), Positivität (Valence) und Energie (Energy) berechnet. Eine Heatmap visualisiert die Ergebnisse. Die stärkste positive Korrelation wurde zwischen Tanzbarkeit und Positivität gefunden, während die Anzahl der Streams nur eine schwache Korrelation mit diesen Eigenschaften aufwies.
 
 ![image](https://github.com/user-attachments/assets/67deb6d8-4954-4cf0-8153-b05410247121)
 
@@ -66,6 +66,7 @@ Das Projekt enthält mehrere Visualisierungen, darunter:
 - Balkendiagramme für die Anzahl der Songs und Streams der Artists.
 - Histogramme für die Verteilung der BPM-Werte und der Tanzbarkeit.
 - Scatterplots, die den Anteil gesprochener Worte und die Korrelationen zwischen den musikalischen Eigenschaften darstellen.
+- Heatmap, die die Korrelationen zwischen den beobachteten Werten darstellt.
 
 ## Fazit
 
