@@ -28,7 +28,7 @@ Die Analyse konzentriert sich auf die Beantwortung folgender Fragen:
 
 ### 2. **Verteilung der Songs nach BPM:**
    - Die Songs wurden nach ihrer BPM (Beats per Minute) aufgeschlüsselt, um die am häufigsten vertretenen BPM-Werte im Datensatz zu ermitteln.
-   - Der BPM-Wert, der am häufigsten im Datensatz vorkommt, liegt zwischen **120 und 130 BPM**, was typisch für viele Pop- und Dance-Songs ist.
+   - Der BPM-Wert, der am häufigsten im Datensatz vorkommt, liegt zwischen **120 und 130 BPM**.
 
 ![image](https://github.com/user-attachments/assets/280009af-7cf3-48c6-a337-3174e90414ac)
 
