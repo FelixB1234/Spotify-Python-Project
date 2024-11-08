@@ -37,7 +37,7 @@ Die Analyse konzentriert sich auf die Beantwortung folgender Fragen:
 
 ![image](https://github.com/user-attachments/assets/f825298f-b2c9-44d9-9b84-261c0fd86b35)
      
-   - Die Tanzbarkeit unter den top 10 gestreamten Artists ist erstaunlich divers. Während Eminem einen durchschnittlichen Anteil von ca. 80% aufweist liegt der durchschnittliche Anteil der Tanzbarkeit von Olivia Rodrigo's Songs bei rd. 51,5%.
+   - Die Tanzbarkeit unter den Top 10 gestreamten Artists ist erstaunlich divers. Während Eminem einen durchschnittlichen Anteil von ca. 80% aufweist liegt der durchschnittliche Anteil der Tanzbarkeit von Olivia Rodrigo's Songs bei rd. 51,5%.
 
 ![image](https://github.com/user-attachments/assets/83180dba-c5c8-43d8-8101-1f339e7c0ee7)
 
